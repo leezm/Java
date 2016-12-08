@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!ELEMENT Students (Student*)>
+<!ELEMENT Student (Student_ID,Student_Name,Student_Sex,Student_Age)>
+<!ELEMENT Student_ID (#PCDATA)>
+<!ELEMENT Student_Name (#PCDATA)>
+<!ELEMENT Student_Sex (#PCDATA)>
+<!ELEMENT Student_Age (#PCDATA)>

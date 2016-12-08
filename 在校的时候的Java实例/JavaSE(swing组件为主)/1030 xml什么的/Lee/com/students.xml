@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE Students SYSTEM "bin\\Lee\\com\\Students.dtd">
+<Students>
+	<Student>
+		<Student_ID>001</Student_ID>
+		<Student_Name>张庆斌</Student_Name>
+		<Student_Sex>男</Student_Sex>
+		<Student_Age>20</Student_Age>
+	</Student>
+	<Student>
+		<Student_ID>002</Student_ID>
+		<Student_Name>任树群</Student_Name>
+		<Student_Sex>男</Student_Sex>
+		<Student_Age>21</Student_Age>
+	</Student>
+	<Student>
+		<Student_ID>003</Student_ID>
+		<Student_Name>冯厚宽</Student_Name>
+		<Student_Sex>男</Student_Sex>
+		<Student_Age>21</Student_Age>
+	</Student>
+	<Student>
+		<Student_ID>004</Student_ID>
+		<Student_Name>刘贝贝</Student_Name>
+		<Student_Sex>男</Student_Sex>
+		<Student_Age>21</Student_Age>
+	</Student>
+</Students>
