@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB18030"?>
+<!DOCTYPE Configs SYSTEM "F:\MyEclipse\Workspaces\Common\523-24\WebRoot\WEB-INF\configs.dtd">
+
+<Configs>
+	<Config>
+		<Config_id>teacher</Config_id>
+		<Config_dao>com.db.TeacherDAO</Config_dao>
+		<Config_data>com.domain.Teacher</Config_data>
+	</Config>
+	<Config>
+		<Config_id>user</Config_id>
+		<Config_dao>com.db.UserDAO</Config_dao>
+		<Config_data>com.domain.User</Config_data>
+	</Config>
+	<Config>
+		<Config_id>question</Config_id>
+		<Config_dao>com.db.QuestionDAO</Config_dao>
+		<Config_data>com.domain.Question</Config_data>
+	</Config>
+	<Config>
+		<Config_id>examroom</Config_id>
+		<Config_dao>com.db.ExamRoomDAO</Config_dao>
+		<Config_data>com.domain.ExamRoom</Config_data>
+	</Config>
+	<Config>
+		<Config_id>role</Config_id>
+		<Config_dao>com.db.RoleDAO</Config_dao>
+		<Config_data>com.domain.Role</Config_data>
+	</Config>
+	<Config>
+		<Config_id>grade</Config_id>
+		<Config_dao>com.db.GradeDAO</Config_dao>
+		<Config_data>com.domain.Grade</Config_data>
+	</Config>
+	
+</Configs>

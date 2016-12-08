@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB18030"?>
+<!ELEMENT Configs (Config*)>
+<!ELEMENT Config (Config_id,Config_dao,Config_data)>
+<!ELEMENT Config_id (#PCDATA)>
+<!ELEMENT Config_dao (#PCDATA)>
+<!ELEMENT Config_data (#PCDATA)>
