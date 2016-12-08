@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!DOCTYPE RootElement SYSTEM "F:\java 工作区间\54\WebRoot\WEB-INF\Configs.dtd">
+
+-<Configs>
+-   <Config id="user">
+    <DaoClassName>com.db.UserDAO</DaoClassName>
+    <DataClassName>com.db.User</DataClassName>
+    </Config>
+<Config id="role">
+    <DaoClassName>com.db.RoleDAO</DaoClassName>
+    <DataClassName>com.db.Role</DataClassName>
+    </Config>
+</Configs>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="gb18030"?>
+<!ELEMENT Configs (Config+)>
+<!ELEMENT Config (DaoClassName,DataClassName)>
+<!ATTLIST Config id CDATA #REQUIRED>
+<!ELEMENT DaoClassName (#PCDATA)>
+<!ELEMENT DataClassName (#PCDATA)>

@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+#menubar>ul{
+	}
+	
+#menubar>ul li{
+	padding:5px 5px 5px 0.5em;
+	margin:0px;
+	list-style-type: none
+	}
+#menubar>ul li a{
+	display:block;
+	text-decoration:none;
+	
+}
